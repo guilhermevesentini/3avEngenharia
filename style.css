@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+.container-blue {
+    background-color: #405af3;
+}
+.container-orange {
+    background-color: #fcecca;
+}
+.border-img {
+    border: solid 1px orange;
+    padding: 20px;
+}
+.album img{
+    padding: 2rem;
+}
+
+.card-body {
+    height: 100px;
+    background-color: rgb(243, 243, 243);
+}
+@media only screen and (max-widht: 400px) {
+    .hero__text{
+        text-align: center;
+    }
+}
